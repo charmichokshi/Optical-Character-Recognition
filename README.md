@@ -24,24 +24,16 @@ Naming convention:
 **Extracted Consignee's Text**
 
 M/S JEENA & COMPANY
-
 JEENA HOUSE PLOT 170 OM NAGAR
-
 OFF PIPELINE ROAD SAGAR
-
 ANDHERI E MUMBAI 400 099
-
 INDIA
-
 MR. SHIRISH BAADKAR 91 22 44222111
 
 
 **Extracted Shipper's Text**
 
 TRANSGROUP INTERNATIONAL
-
 140 Eastern Ave
-
 Chelsea, MA 02150
-
 (617) 889-5089
