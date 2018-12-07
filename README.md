@@ -1,7 +1,7 @@
 # Optical-Character-Recognition
 Detecting boxes and extract them one by one accurately for all PDFs of invoice to extract text within it like consignee and shipper name &amp; address.
 
-Following is the algorithm:
+Algorithm:
 - Convert PDF to PNG
 - Apply morphological operations. I have defined two kernels. 1) Kernel to detect horizontal lines. 2) Kernel to detect vertical lines.
 - Add the output of this two images which will detect all the boxes
