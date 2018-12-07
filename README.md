@@ -21,7 +21,8 @@ Naming convention:
 ![a](https://github.com/charmichokshi/Optical-Character-Recognition/blob/master/Cropped/117568-MAWB014-45783043_333320171013030906-Page(1)_1.png)
 ![a](https://github.com/charmichokshi/Optical-Character-Recognition/blob/master/Cropped/117568-MAWB014-45783043_333320171013030906-Page(1)_2.png)
 
-**Extracted Text**
+**Extracted Consignee's Text**
+
 M/S JEENA & COMPANY
 
 JEENA HOUSE PLOT 170 OM NAGAR
@@ -33,6 +34,9 @@ ANDHERI E MUMBAI 400 099
 INDIA
 
 MR. SHIRISH BAADKAR 91 22 44222111
+
+
+**Extracted Shipper's Text**
 
 TRANSGROUP INTERNATIONAL
 
